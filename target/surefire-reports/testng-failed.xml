@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression Suit]">
+  <test name="Regression Test(failed)">
+    <classes>
+      <class name="homePageTest.TC003_VerifyingLoginDataFromExcelReader">
+        <methods>
+          <include name="setUp"/>
+          <include name="loginFromDifferentRecord" invocation-numbers="3 4 5"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- homePageTest.TC003_VerifyingLoginDataFromExcelReader -->
+    </classes>
+  </test> <!-- Regression Test(failed) -->
+</suite> <!-- Failed suite [Regression Suit] -->

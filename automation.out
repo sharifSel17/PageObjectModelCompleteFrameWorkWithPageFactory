@@ -1,0 +1,160 @@
+2017-12-06 18:00:55 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 18:00:56 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (7bd08d093b5d1ef4fa3297eab3639122)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 18:00:56 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (7bd08d093b5d1ef4fa3297eab3639122)] -> xpath: .//*[@id='email']]
+2017-12-06 18:00:56 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (7bd08d093b5d1ef4fa3297eab3639122)] -> xpath: .//*[@id='passwd']]
+2017-12-06 18:00:57 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (7bd08d093b5d1ef4fa3297eab3639122)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 18:00:57 INFO  TC001_LoginVerify:31 - ==========Finished verifying credential test============
+2017-12-06 18:05:09 INFO  HomePage:166 - Click in sign button :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 18:05:09 INFO  HomePage:168 - Select email id and object is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: .//*[@id='email_create']]
+2017-12-06 18:05:15 INFO  HomePage:171 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-06 18:05:15 INFO  HomePage:184 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: .//*[@id='id_gender1']]
+2017-12-06 18:05:15 INFO  HomePage:186 - Select first name is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='customer_firstname']]
+2017-12-06 18:05:15 INFO  HomePage:188 - Select last name is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='customer_lastname']]
+2017-12-06 18:05:15 INFO  HomePage:190 - Select  password is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='passwd']]
+2017-12-06 18:05:15 INFO  HomePage:192 - Selected  day is :-10
+2017-12-06 18:05:15 INFO  HomePage:194 - Select  month is :-January
+2017-12-06 18:05:18 INFO  HomePage:196 - Select  year is :-2017
+2017-12-06 18:05:18 INFO  HomePage:198 - Select first name for address is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='firstname']]
+2017-12-06 18:05:18 INFO  HomePage:200 - Select last name for address is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 18:05:18 INFO  HomePage:202 - Select address in sign button :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='address1']]
+2017-12-06 18:05:18 INFO  HomePage:204 - Select city name is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='city']]
+2017-12-06 18:05:19 INFO  HomePage:206 - Select state name is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='id_state']]
+2017-12-06 18:05:19 INFO  HomePage:208 - Select zip code is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='postcode']]
+2017-12-06 18:05:19 INFO  HomePage:210 - Select country name is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='id_country']]
+2017-12-06 18:05:20 INFO  HomePage:212 - Select mobile number is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='phone_mobile']]
+2017-12-06 18:05:20 INFO  HomePage:214 - select reference is :-[[ChromeDriver: chrome on XP (5d59108238634e689a633673259df513)] -> xpath: //*[@id='alias']]
+2017-12-06 18:05:36 INFO  HomePage:216 - Click in final registration button :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='submitAccount']'
+2017-12-06 18:31:55 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 18:31:56 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (f3a439c9308910810dfe5a65bebfe52a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 18:31:56 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (f3a439c9308910810dfe5a65bebfe52a)] -> xpath: .//*[@id='email']]
+2017-12-06 18:31:56 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (f3a439c9308910810dfe5a65bebfe52a)] -> xpath: .//*[@id='passwd']]
+2017-12-06 18:31:57 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (f3a439c9308910810dfe5a65bebfe52a)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 18:31:57 INFO  TC001_LoginVerify:31 - ==========Finished verifying credential test============
+2017-12-06 19:16:57 INFO  TC001_LoginVerify:26 - =======Etarting verifying credentials test=========
+2017-12-06 19:16:58 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (4ecadff9a85fa5d0fbe52016e7c68dd5)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 19:16:58 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (4ecadff9a85fa5d0fbe52016e7c68dd5)] -> xpath: .//*[@id='email']]
+2017-12-06 19:16:58 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (4ecadff9a85fa5d0fbe52016e7c68dd5)] -> xpath: .//*[@id='passwd']]
+2017-12-06 19:16:59 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (4ecadff9a85fa5d0fbe52016e7c68dd5)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 19:16:59 INFO  TC001_LoginVerify:31 - ==========Finished verifying credential test============
+2017-12-06 19:18:05 INFO  TC001_LoginVerify:26 - =======Etarting verifying credentials test=========
+2017-12-06 19:18:06 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (ce9b9248348ff6d8c9fd1483638bae1c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 19:18:06 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (ce9b9248348ff6d8c9fd1483638bae1c)] -> xpath: .//*[@id='email']]
+2017-12-06 19:18:06 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (ce9b9248348ff6d8c9fd1483638bae1c)] -> xpath: .//*[@id='passwd']]
+2017-12-06 19:18:07 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (ce9b9248348ff6d8c9fd1483638bae1c)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 19:18:07 INFO  TC001_LoginVerify:31 - ==========Finished verifying credential test============
+2017-12-06 19:18:58 INFO  TC001_LoginVerify:26 - =======Etarting verifying credentials test=========
+2017-12-06 19:18:59 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (810dcba45faeaf665977889cb89efd3c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 19:19:00 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (810dcba45faeaf665977889cb89efd3c)] -> xpath: .//*[@id='email']]
+2017-12-06 19:19:00 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (810dcba45faeaf665977889cb89efd3c)] -> xpath: .//*[@id='passwd']]
+2017-12-06 19:19:01 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (810dcba45faeaf665977889cb89efd3c)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 19:19:01 INFO  TC001_LoginVerify:31 - ==========Finished verifying credential test============
+2017-12-06 19:22:31 INFO  TestBase:43 - Creating the object of chrome
+2017-12-06 19:22:33 INFO  TestBase:57 - Navigating to http://automationpractice.com/index.php
+2017-12-06 19:22:46 INFO  TestBase:43 - Creating the object of chrome
+2017-12-06 19:22:48 INFO  TestBase:57 - Navigating to http://automationpractice.com/index.php
+2017-12-06 19:23:02 INFO  TestBase:43 - Creating the object of chrome
+2017-12-06 19:23:04 INFO  TestBase:57 - Navigating to http://automationpractice.com/index.php
+2017-12-06 19:23:09 INFO  TestBase:43 - Creating the object of chrome
+2017-12-06 19:23:11 INFO  TestBase:57 - Navigating to http://automationpractice.com/index.php
+2017-12-06 19:23:16 INFO  TestBase:43 - Creating the object of chrome
+2017-12-06 19:23:18 INFO  TestBase:57 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:15:38 INFO  TestBase:44 - Creating the object of chrome
+2017-12-06 20:15:40 INFO  TestBase:58 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:15:54 INFO  TestBase:44 - Creating the object of chrome
+2017-12-06 20:15:56 INFO  TestBase:58 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:16:10 INFO  TestBase:44 - Creating the object of chrome
+2017-12-06 20:16:12 INFO  TestBase:58 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:16:18 INFO  TestBase:44 - Creating the object of chrome
+2017-12-06 20:16:20 INFO  TestBase:58 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:16:25 INFO  TestBase:44 - Creating the object of chrome
+2017-12-06 20:16:27 INFO  TestBase:58 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:23:14 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-06 20:23:15 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (a4ddb4ea4a5c931ed19e331e8eab6f28)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 20:23:15 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (a4ddb4ea4a5c931ed19e331e8eab6f28)] -> xpath: .//*[@id='email']]
+2017-12-06 20:23:15 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (a4ddb4ea4a5c931ed19e331e8eab6f28)] -> xpath: .//*[@id='passwd']]
+2017-12-06 20:23:15 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (a4ddb4ea4a5c931ed19e331e8eab6f28)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 20:23:16 INFO  TC001_LoginVerify:33 - ==========Finished verifying credential test============
+2017-12-06 20:23:42 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-06 20:23:43 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (3810bbb78fe6bedf6ce2e1c0cfc099e7)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 20:23:43 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (3810bbb78fe6bedf6ce2e1c0cfc099e7)] -> xpath: .//*[@id='email']]
+2017-12-06 20:23:43 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (3810bbb78fe6bedf6ce2e1c0cfc099e7)] -> xpath: .//*[@id='passwd']]
+2017-12-06 20:23:44 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (3810bbb78fe6bedf6ce2e1c0cfc099e7)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 20:23:44 INFO  TC001_LoginVerify:33 - ==========Finished verifying credential test============
+2017-12-06 20:30:54 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 20:30:55 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:31:10 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 20:31:11 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:31:25 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 20:31:28 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:31:36 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 20:31:38 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 20:31:43 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 20:31:45 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:13:48 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:13:51 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:13:56 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 21:13:57 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (43987ec1bc82de1dd59428e0bd440c41)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 21:13:57 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (43987ec1bc82de1dd59428e0bd440c41)] -> xpath: .//*[@id='email']]
+2017-12-06 21:13:57 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (43987ec1bc82de1dd59428e0bd440c41)] -> xpath: .//*[@id='passwd']]
+2017-12-06 21:13:58 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (43987ec1bc82de1dd59428e0bd440c41)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 21:13:58 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 21:17:26 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:17:28 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:17:35 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 21:17:36 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (afdce0637e846cff04f1417abd651f80)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 21:17:36 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (afdce0637e846cff04f1417abd651f80)] -> xpath: .//*[@id='email']]
+2017-12-06 21:17:36 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (afdce0637e846cff04f1417abd651f80)] -> xpath: .//*[@id='passwd']]
+2017-12-06 21:17:37 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (afdce0637e846cff04f1417abd651f80)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 21:17:37 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 21:25:26 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:25:29 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:25:34 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 21:25:35 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (517b856f25e21aa9d53296c646205593)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 21:25:35 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (517b856f25e21aa9d53296c646205593)] -> xpath: .//*[@id='email']]
+2017-12-06 21:25:35 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (517b856f25e21aa9d53296c646205593)] -> xpath: .//*[@id='passwd']]
+2017-12-06 21:25:36 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (517b856f25e21aa9d53296c646205593)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 21:25:36 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 21:31:47 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:31:49 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:32:06 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:32:08 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:32:21 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:32:23 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:32:28 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:32:30 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:32:35 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:32:37 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:34:23 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 21:34:24 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (9d505c54d073a58db39a3ddb86f7d52f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 21:34:24 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (9d505c54d073a58db39a3ddb86f7d52f)] -> xpath: .//*[@id='email']]
+2017-12-06 21:34:24 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (9d505c54d073a58db39a3ddb86f7d52f)] -> xpath: .//*[@id='passwd']]
+2017-12-06 21:34:25 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (9d505c54d073a58db39a3ddb86f7d52f)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 21:34:25 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 21:53:35 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:53:37 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:53:50 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:53:52 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:54:08 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:54:10 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:54:16 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:54:18 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 21:54:24 INFO  TestBase:46 - Creating the object of chrome
+2017-12-06 21:54:26 INFO  TestBase:60 - Navigating to http://automationpractice.com/index.php
+2017-12-06 23:01:32 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 23:01:33 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (eeffc15e61c74d48248584f6396a89d7)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 23:01:33 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (eeffc15e61c74d48248584f6396a89d7)] -> xpath: .//*[@id='email']]
+2017-12-06 23:01:33 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (eeffc15e61c74d48248584f6396a89d7)] -> xpath: .//*[@id='passwd']]
+2017-12-06 23:01:34 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (eeffc15e61c74d48248584f6396a89d7)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 23:01:34 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 23:07:15 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 23:07:16 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (c2e09b7f2009f21d3b285a4e9444f4dd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 23:07:16 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (c2e09b7f2009f21d3b285a4e9444f4dd)] -> xpath: .//*[@id='email']]
+2017-12-06 23:07:17 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (c2e09b7f2009f21d3b285a4e9444f4dd)] -> xpath: .//*[@id='passwd']]
+2017-12-06 23:07:17 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (c2e09b7f2009f21d3b285a4e9444f4dd)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 23:07:18 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-06 23:09:51 INFO  TC001_LoginVerify:27 - =======Etarting verifying credentials test=========
+2017-12-06 23:09:52 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-06 23:09:52 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: .//*[@id='email']]
+2017-12-06 23:09:52 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: .//*[@id='passwd']]
+2017-12-06 23:09:53 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-06 23:09:53 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
