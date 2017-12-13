@@ -2,61 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc3058c9-3f36-4e63-abcc-220da505d419" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/customListener/Retry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/customListener/RetryListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/customListener/WebEventListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pageLibrary/MenProducts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/pageLibrary/SwitchParentWindowToChildWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/productPage/TC_001_VerifyingProducts.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/switchWindow/TC_001_VerifyingSwitchWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/switchWindow/TC_002_MultipleWindowHandle.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/Login Credential_06_12_2017_07_18_07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_08_30_52.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_08_31_08.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_08_31_24.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_31_46.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_32_05.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_32_20.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_53_34.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_53_49.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_09_54_07.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginToCredential_06_12_2017_11_09_53.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/commonApi/TestBase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/customListener/Listener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/excelDataReader/ExcelReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/pageLibrary/HomePage.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/screenShot/loginFromDifferentRecordadmin123456@gmail.com_06_12_2017_08_16_09.png" afterPath="$PROJECT_DIR$/src/main/java/failureScreenShot/reports_12_12_2017_11_59_20.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/commonApi/TestBase.class" afterPath="$PROJECT_DIR$/target/classes/commonApi/TestBase.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/customListener/Listener.class" afterPath="$PROJECT_DIR$/target/classes/customListener/Listener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/pageLibrary/HomePage.class" afterPath="$PROJECT_DIR$/target/classes/pageLibrary/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/homePageTest/TC001_LoginVerify.class" afterPath="$PROJECT_DIR$/target/test-classes/homePageTest/TC001_LoginVerify.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/homePageTest/TC002_NewUserRegistrationToApplication.class" afterPath="$PROJECT_DIR$/target/test-classes/homePageTest/TC002_NewUserRegistrationToApplication.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/homePageTest/TC003_VerifyingLoginDataFromExcelReader.class" afterPath="$PROJECT_DIR$/target/test-classes/homePageTest/TC003_VerifyingLoginDataFromExcelReader.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PageObjectComplteFrameWorkWithPageFactory.iml" afterPath="$PROJECT_DIR$/PageObjectComplteFrameWorkWithPageFactory.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/automation.out" afterPath="$PROJECT_DIR$/automation.out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/commonApi/TestBase.java" afterPath="$PROJECT_DIR$/src/main/java/commonApi/TestBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/customListener/Listener.java" afterPath="$PROJECT_DIR$/src/main/java/customListener/Listener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/pageLibrary/HomePage.java" afterPath="$PROJECT_DIR$/src/main/java/pageLibrary/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/homePageTest/TC001_LoginVerify.java" afterPath="$PROJECT_DIR$/src/test/java/homePageTest/TC001_LoginVerify.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/homePageTest/TC002_NewUserRegistrationToApplication.java" afterPath="$PROJECT_DIR$/src/test/java/homePageTest/TC002_NewUserRegistrationToApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/homePageTest/TC003_VerifyingLoginDataFromExcelReader.java" afterPath="$PROJECT_DIR$/src/test/java/homePageTest/TC003_VerifyingLoginDataFromExcelReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-homePageTest.TC001_LoginVerify.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-homePageTest.TC001_LoginVerify.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/methods-alphabetical.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/methods-alphabetical.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/methods.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/methods.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/reporter-output.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/reporter-output.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/testng.xml.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/testng.xml.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/toc.html" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Regression Suit/toc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" afterPath="$PROJECT_DIR$/target/test-classes/testng.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -517,32 +463,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="failureScreenShot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PageObjectComplteFrameWorkWithPageFactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PageObjectComplteFrameWorkWithPageFactory" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="extentReport" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1147,6 +1067,21 @@
       <option name="presentableId" value="Default" />
       <updated>1512580886294</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version 2.0">
+      <created>1513141859665</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513141859665</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version 2.0">
+      <created>1513142426477</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513142426477</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1226,6 +1161,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 2.0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
