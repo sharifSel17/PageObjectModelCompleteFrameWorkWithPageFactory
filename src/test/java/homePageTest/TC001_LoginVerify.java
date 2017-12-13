@@ -2,8 +2,7 @@ package homePageTest;
 
 import commonApi.TestBase;
 import org.apache.log4j.Logger;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import pageLibrary.HomePage;
 
@@ -16,7 +15,7 @@ public class TC001_LoginVerify extends TestBase{
     public static final Logger log = Logger.getLogger(TC001_LoginVerify.class.getName());
     HomePage homePage;
 
-    @BeforeMethod
+   @BeforeClass
     public void setUp()throws IOException {
         init();
     }
@@ -24,15 +23,13 @@ public class TC001_LoginVerify extends TestBase{
 
    @Test
     public void loginToCredential()throws InterruptedException{
-        log.info("=======Etarting verifying credentials test=========");
+        log("=======Etarting verifying credentials test=========");
         homePage = new HomePage(driver);
-        homePage.loginToApplication("admin123456@gmail.com","admin1234io");
-        getScreenShot("loginToCredential");
+        homePage.loginToApplication("admin123456@gmail.com","admin123");
+
+       //Assert.assertEquals(true,homePage.failureMessage());
+        //getScreenShot("loginToCredential");
         //Assert.assertEquals(homePage.invalidText(),"Authentication failed.");
-        log.info("==========Finished verifying credential test============");
-    }
-     @AfterClass
-    public void endTest(){
-        driver.quit();
+        log("==========Finished verifying credential test============");
     }
 }

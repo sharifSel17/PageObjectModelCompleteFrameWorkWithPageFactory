@@ -1,18 +1,20 @@
 package pageLibrary;
 
+import commonApi.TestBase;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Reporter;
 
 import java.util.List;
 
 /**
  * Created by Sharif on 12/6/2017.
  */
-public class HomePage {
+public class HomePage{
     WebDriver driver;
     public static final Logger log = Logger.getLogger(HomePage.class.getName());
 
@@ -146,13 +148,13 @@ public class HomePage {
 
     public void loginToApplication(String email, String password)throws InterruptedException{
         signIn.click();
-        log.info("Clicked on sign in and object is :-"+signIn.toString());
+        log("Clicked on sign in and object is :-"+signIn.toString());
         LoginEmailId.sendKeys(email);
-        log.info("Entered email address:-"+email+" and object is :-"+LoginEmailId.toString());
+        log("Entered email address:-"+email+" and object is :-"+LoginEmailId.toString());
         LoginPassword.sendKeys(password);
-        log.info("Entered password:-"+password+" and object is:-"+LoginPassword.toString());
+        log("Entered password:-"+password+" and object is:-"+LoginPassword.toString());
         submitButton.click();
-        log.info("Elicked on submit button and object is:-"+submitButton.toString());
+        log("Elicked on submit button and object is:-"+submitButton.toString());
     }
 
     public String invalidText(){
@@ -228,6 +230,11 @@ public class HomePage {
         return failureMessageRecord.getText();
     }
 
+
+    public void log(String data){
+        log.info(data);
+        Reporter.log(data);
+    }
    /* public boolean verifyingLogoutIsDisplay(){
         try{
             waitForElement(5000,signOut);

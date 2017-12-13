@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Regression Suit">
-    <!-- <listeners>
-         <listener class-name="customListener.Listener"></listener>
-     </listeners>-->
-    <test name="Regression Test">
+<suite name="Regression Suit" preserve-order="true" parallel="classes" thread-count="3">
+     <listeners>
+         <!--<listener class-name="customListener.Listener"></listener>-->
+         <listener class-name="customListener.RetryListener"></listener>
+     </listeners>
+    <test name="HomePageTest">
         <classes>
             <class name="homePageTest.TC001_LoginVerify"></class>
-            <!--<class name="homePageTest.TC002_NewUserRegistrationToApplication"></class>-->
-            <!--<class name="homePageTest.TC003_VerifyingLoginDataFromExcelReader"></class>-->
+            <class name="homePageTest.TC002_NewUserRegistrationToApplication"></class>
+            <class name="homePageTest.TC003_VerifyingLoginDataFromExcelReader"></class>
+
         </classes>
     </test>
+    <test name="ProductPage">
+        <classes>
+            <class name="productPage.TC_001_VerifyingProducts"></class>
+        </classes>
+    </test>
+    <test name="SwitchWindow">
+        <classes>
+            <class name="switchWindow.TC_001_VerifyingSwitchWindow"></class>
+        </classes>
+    </test>
+
 </suite>

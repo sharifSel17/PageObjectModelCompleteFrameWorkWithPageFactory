@@ -158,3 +158,748 @@
 2017-12-06 23:09:52 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: .//*[@id='passwd']]
 2017-12-06 23:09:53 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (ac427959961a1ff9a1f775fab894bb39)] -> xpath: .//*[@id='SubmitLogin']]
 2017-12-06 23:09:53 INFO  TC001_LoginVerify:32 - ==========Finished verifying credential test============
+2017-12-07 12:52:29 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 12:52:30 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (fec596b728dacce4ba003d7770e998fb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 12:52:30 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (fec596b728dacce4ba003d7770e998fb)] -> xpath: .//*[@id='email']]
+2017-12-07 12:52:30 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (fec596b728dacce4ba003d7770e998fb)] -> xpath: .//*[@id='passwd']]
+2017-12-07 12:52:31 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (fec596b728dacce4ba003d7770e998fb)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 12:52:31 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 12:54:32 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 12:54:33 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (9fc2525c2dae3bc3a324e5f58b0bc1a4)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 12:54:33 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (9fc2525c2dae3bc3a324e5f58b0bc1a4)] -> xpath: .//*[@id='email']]
+2017-12-07 12:54:33 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (9fc2525c2dae3bc3a324e5f58b0bc1a4)] -> xpath: .//*[@id='passwd']]
+2017-12-07 12:54:34 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (9fc2525c2dae3bc3a324e5f58b0bc1a4)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 12:54:34 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:02:14 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:02:14 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (43396a03848a57ab9728439e816d1f4d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:02:15 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (43396a03848a57ab9728439e816d1f4d)] -> xpath: .//*[@id='email']]
+2017-12-07 13:02:15 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (43396a03848a57ab9728439e816d1f4d)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:02:15 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (43396a03848a57ab9728439e816d1f4d)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:02:15 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:05:58 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:05:59 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (be5578b0f3097807d93b7ef4043e9ce2)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:06:00 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (be5578b0f3097807d93b7ef4043e9ce2)] -> xpath: .//*[@id='email']]
+2017-12-07 13:06:00 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (be5578b0f3097807d93b7ef4043e9ce2)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:06:00 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (be5578b0f3097807d93b7ef4043e9ce2)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:06:00 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:06:46 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:06:48 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (d0bb8b545db24f144745951b0ab03270)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:06:48 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (d0bb8b545db24f144745951b0ab03270)] -> xpath: .//*[@id='email']]
+2017-12-07 13:06:48 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (d0bb8b545db24f144745951b0ab03270)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:06:49 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (d0bb8b545db24f144745951b0ab03270)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:06:49 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:07:10 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:07:12 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (8c6aee400f641a623502cb09fd001fbb)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:07:12 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (8c6aee400f641a623502cb09fd001fbb)] -> xpath: .//*[@id='email']]
+2017-12-07 13:07:12 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (8c6aee400f641a623502cb09fd001fbb)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:07:12 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (8c6aee400f641a623502cb09fd001fbb)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:07:12 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:12:47 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:12:48 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (861a06123dad75d40f5bd54a9423a762)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:12:48 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (861a06123dad75d40f5bd54a9423a762)] -> xpath: .//*[@id='email']]
+2017-12-07 13:12:48 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (861a06123dad75d40f5bd54a9423a762)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:12:48 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (861a06123dad75d40f5bd54a9423a762)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:16:00 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:20:08 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:20:09 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (0eb111d82ea13c50a7579788954fd65e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:20:09 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (0eb111d82ea13c50a7579788954fd65e)] -> xpath: .//*[@id='email']]
+2017-12-07 13:20:10 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (0eb111d82ea13c50a7579788954fd65e)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:20:10 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (0eb111d82ea13c50a7579788954fd65e)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:20:10 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:26:04 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:26:05 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (349892e3a7e45ee5bf5b11cc5898b8e6)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:26:05 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (349892e3a7e45ee5bf5b11cc5898b8e6)] -> xpath: .//*[@id='email']]
+2017-12-07 13:26:05 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (349892e3a7e45ee5bf5b11cc5898b8e6)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:26:06 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (349892e3a7e45ee5bf5b11cc5898b8e6)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:26:06 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:28:48 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:28:49 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (7df1ffaf1b1ca20fd5068fd20d14c48d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:28:49 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (7df1ffaf1b1ca20fd5068fd20d14c48d)] -> xpath: .//*[@id='email']]
+2017-12-07 13:28:49 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (7df1ffaf1b1ca20fd5068fd20d14c48d)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:28:50 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (7df1ffaf1b1ca20fd5068fd20d14c48d)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:28:50 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:29:15 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:29:16 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (212a49c0f47cf5e8943523bcecf41a16)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:29:16 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (212a49c0f47cf5e8943523bcecf41a16)] -> xpath: .//*[@id='email']]
+2017-12-07 13:29:16 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (212a49c0f47cf5e8943523bcecf41a16)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:29:17 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (212a49c0f47cf5e8943523bcecf41a16)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:29:17 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:33:44 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:33:47 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (0cb5f64a3c90f52d667ad005a21d6409)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:33:47 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (0cb5f64a3c90f52d667ad005a21d6409)] -> xpath: .//*[@id='email']]
+2017-12-07 13:33:48 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (0cb5f64a3c90f52d667ad005a21d6409)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:33:48 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (0cb5f64a3c90f52d667ad005a21d6409)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:33:48 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:42:15 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:42:16 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (15f63aaeb05eb6401514acc7764409dc)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:42:16 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (15f63aaeb05eb6401514acc7764409dc)] -> xpath: .//*[@id='email']]
+2017-12-07 13:42:16 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (15f63aaeb05eb6401514acc7764409dc)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:42:17 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (15f63aaeb05eb6401514acc7764409dc)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:42:17 INFO  HomePage:226 - ======Registration failure message=========
+2017-12-07 13:42:17 INFO  HomePage:227 - Failure Message is:-There is 1 error
+2017-12-07 13:43:00 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:43:01 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (9c0fabbfe9df4bd041919339fa788445)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:43:01 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (9c0fabbfe9df4bd041919339fa788445)] -> xpath: .//*[@id='email']]
+2017-12-07 13:43:01 INFO  HomePage:153 - Entered password:-admin1234io and object is:-[[ChromeDriver: chrome on XP (9c0fabbfe9df4bd041919339fa788445)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:43:02 INFO  HomePage:155 - Elicked on submit button and object is:-[[ChromeDriver: chrome on XP (9c0fabbfe9df4bd041919339fa788445)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-07 13:43:02 INFO  TC001_LoginVerify:35 - ==========Finished verifying credential test============
+2017-12-07 13:44:37 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:44:38 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (ae3ea9c469354ef5ab30a2cf0dd7afe8)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:44:38 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (ae3ea9c469354ef5ab30a2cf0dd7afe8)] -> xpath: .//*[@id='email']]
+2017-12-07 13:44:38 INFO  HomePage:153 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (ae3ea9c469354ef5ab30a2cf0dd7afe8)] -> xpath: .//*[@id='passwd']]
+2017-12-07 13:44:39 INFO  HomePage:155 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-07 13:44:39 INFO  TC001_LoginVerify:35 - ==========Finished verifying credential test============
+2017-12-07 13:45:42 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-07 13:45:43 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (accec5b463bda92fd5497f5d9d698964)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-07 13:45:43 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (accec5b463bda92fd5497f5d9d698964)] -> xpath: .//*[@id='email']]
+2017-12-07 20:38:59 INFO  WomenProducts:31 - ========has been selected to desired product=======
+2017-12-07 23:21:05 INFO  MenProducts:35 - Men Navigation has been selected
+2017-12-07 23:38:08 INFO  TC_001_VerifyingProducts:27 - =======Starting verifying Products===============
+2017-12-07 23:38:09 INFO  MenProducts:36 - Men Navigation has been selected
+2017-12-07 23:38:14 INFO  MenProducts:40 - Clothing Navigation has been selected
+2017-12-07 23:55:05 INFO  TC_001_VerifyingProducts:30 - =======Starting verifying Products===============
+2017-12-07 23:57:30 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-07 23:58:20 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-07 23:58:21 INFO  MenProducts:36 - Men Navigation has been selected
+2017-12-07 23:58:26 INFO  MenProducts:40 - Clothing Navigation has been selected
+2017-12-08 12:47:25 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 12:47:26 INFO  MenProducts:36 - Men Navigation has been selected
+2017-12-08 12:47:31 INFO  MenProducts:41 - Clothing Navigation has been selected
+2017-12-08 14:39:28 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 14:39:28 INFO  MenProducts:36 - Men Navigation has been selected
+2017-12-08 14:39:34 INFO  MenProducts:41 - Clothing Navigation has been selected
+2017-12-08 14:39:37 INFO  MenProducts:46 - Shirts navigation has been clicked 
+2017-12-08 15:09:41 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 15:09:42 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 15:09:48 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 15:09:50 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:04:09 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:04:10 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:04:16 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:04:19 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:09:33 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:09:34 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:09:39 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:09:41 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:12:03 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:12:03 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:12:09 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:12:11 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:16:29 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:16:30 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:16:35 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:16:37 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:17:56 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:17:59 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:18:05 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:18:08 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:22:12 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:22:12 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:22:18 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:22:20 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:28:31 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:28:32 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:28:37 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:28:40 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:30:37 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:30:38 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:30:43 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:30:45 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:32:09 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:32:09 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:32:15 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:32:18 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:33:05 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:33:06 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:33:11 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:33:14 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:37:24 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:37:25 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:37:30 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:37:33 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:40:18 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:40:21 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:40:26 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:40:28 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 21:42:38 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-08 21:42:39 INFO  MenProducts:37 - Men Navigation has been selected
+2017-12-08 21:42:43 INFO  MenProducts:42 - Clothing Navigation has been selected
+2017-12-08 21:42:46 INFO  MenProducts:47 - Shirts navigation has been clicked 
+2017-12-08 23:31:11 INFO  SwitchParentWindowToChildWindow:26 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (09e475931fe668f5e0b5e8a3b4717219)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-08 23:41:57 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (d50bcea104bed4716e38bf802b180c35)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-08 23:41:58 INFO  SwitchParentWindowToChildWindow:39 - Finished verifying facebook link
+2017-12-08 23:42:38 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (f411b406bc4734197d6d94b143ae1e9b)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-08 23:43:33 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (fa68298a99104caeccde5214e7859ba5)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-08 23:43:39 INFO  SwitchParentWindowToChildWindow:40 - Finished verifying facebook link
+2017-12-09 00:10:30 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (f53e9d8acfec16b70fb41a82bdd20740)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-09 00:10:37 INFO  SwitchParentWindowToChildWindow:42 - Finished verifying facebook link
+2017-12-09 00:24:51 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (bdcf022035c2bbcbf2cffe866d37c973)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-09 00:24:57 INFO  SwitchParentWindowToChildWindow:40 - Finished verifying facebook link
+2017-12-09 00:28:54 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (818d884d3505fb1f52229087ac387a42)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-09 00:29:40 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (b82b6973acc08148d3307b3a89e18d21)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-09 23:34:39 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-09 23:34:39 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:34:39 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:34:39 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:34:40 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:34:40 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:34:40 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:34:40 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (297175e1ab023cb54c3c8c15ce0363ba)] -> xpath: .//*[@id='email']]
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd123'] 
+2017-12-09 23:34:40 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='passwd123']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 297175e1ab023cb54c3c8c15ce0363ba
+*** Element info: {Using=xpath, value=.//*[@id='passwd123']}
+2017-12-09 23:34:41 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:34:44 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:34:49 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:34:49 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:34:49 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:34:50 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:34:55 INFO  HomePage:166 - Click in sign button :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email_create'] 
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email_create']
+2017-12-09 23:34:55 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='email_create']] before changed
+2017-12-09 23:34:55 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='email_create']] after changed
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email_create'] 
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email_create']
+2017-12-09 23:34:55 INFO  HomePage:168 - Select email id and object is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='email_create']]
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitCreate']/span 
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='SubmitCreate']/span
+2017-12-09 23:34:55 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='SubmitCreate']/span]
+2017-12-09 23:34:55 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='SubmitCreate']/span] 
+2017-12-09 23:35:00 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitCreate']/span 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='SubmitCreate']/span"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 8f55184e435c9eb0150bef062e0178ea
+*** Element info: {Using=xpath, value=.//*[@id='SubmitCreate']/span}
+2017-12-09 23:35:01 INFO  HomePage:171 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='id_gender1'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='id_gender1']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='id_gender1']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='id_gender1']] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='id_gender1'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='id_gender1']
+2017-12-09 23:35:01 INFO  HomePage:184 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='id_gender1']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='customer_firstname'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='customer_firstname']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_firstname']] before changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_firstname']] after changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='customer_firstname'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='customer_firstname']
+2017-12-09 23:35:01 INFO  HomePage:186 - Select first name is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_firstname']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='customer_lastname'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='customer_lastname']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_lastname']] before changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_lastname']] after changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='customer_lastname'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='customer_lastname']
+2017-12-09 23:35:01 INFO  HomePage:188 - Select last name is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='customer_lastname']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='passwd'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='passwd']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='passwd']] before changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='passwd']] after changed
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='passwd'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='passwd']
+2017-12-09 23:35:01 INFO  HomePage:190 - Select  password is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='passwd']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='days'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='days']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='days']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='days']] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='days']/option[10] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='days']/option[10]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='days']/option[10]]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='days']/option[10]] 
+2017-12-09 23:35:01 INFO  HomePage:192 - Selected  day is :-10
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='months'] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='months']
+2017-12-09 23:35:01 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='months']]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='months']] 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='months']/option 
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='months']/option
+2017-12-09 23:35:01 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='months']/option]
+2017-12-09 23:35:01 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='months']/option] 
+2017-12-09 23:35:02 INFO  HomePage:194 - Select  month is :-January
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='years'] 
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='years']
+2017-12-09 23:35:02 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='years']]
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='years']] 
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='years']/option 
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='years']/option
+2017-12-09 23:35:02 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='years']/option]
+2017-12-09 23:35:02 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='years']/option] 
+2017-12-09 23:35:05 INFO  HomePage:196 - Select  year is :-2017
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='firstname'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='firstname']
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='firstname']] before changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='firstname']] after changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='firstname'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='firstname']
+2017-12-09 23:35:05 INFO  HomePage:198 - Select first name for address is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='firstname']]
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='lastname'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='lastname']
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='lastname']] before changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='lastname']] after changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:35:05 INFO  HomePage:200 - Select last name for address is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='address1'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='address1']
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='address1']] before changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='address1']] after changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='address1'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='address1']
+2017-12-09 23:35:05 INFO  HomePage:202 - Select address in sign button :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='address1']]
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='city'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='city']
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='city']] before changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='city']] after changed
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='city'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='city']
+2017-12-09 23:35:05 INFO  HomePage:204 - Select city name is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='city']]
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='id_state'] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='id_state']
+2017-12-09 23:35:05 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_state']]
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_state']] 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='id_state']/option 
+2017-12-09 23:35:05 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='id_state']/option
+2017-12-09 23:35:06 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='id_state']/option]
+2017-12-09 23:35:06 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='id_state']/option] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='id_state'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='id_state']
+2017-12-09 23:35:07 INFO  HomePage:206 - Select state name is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_state']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='postcode'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='postcode']
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='postcode']] before changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='postcode']] after changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='postcode'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='postcode']
+2017-12-09 23:35:07 INFO  HomePage:208 - Select zip code is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='postcode']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='id_country'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='id_country']
+2017-12-09 23:35:07 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_country']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_country']] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='id_country'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='id_country']
+2017-12-09 23:35:07 INFO  HomePage:210 - Select country name is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='id_country']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='phone_mobile'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='phone_mobile']
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='phone_mobile']] before changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='phone_mobile']] after changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='phone_mobile'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='phone_mobile']
+2017-12-09 23:35:07 INFO  HomePage:212 - Select mobile number is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='phone_mobile']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='alias'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='alias']
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='alias']] before changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='alias']] after changed
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='alias'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='alias']
+2017-12-09 23:35:07 INFO  HomePage:214 - select reference is :-[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='alias']]
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='submitAccount'] 
+2017-12-09 23:35:07 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='submitAccount']
+2017-12-09 23:35:07 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='submitAccount']]
+2017-12-09 23:35:09 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: .//*[@id='submitAccount']] 
+2017-12-09 23:35:09 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='submitAccount'] 
+2017-12-09 23:35:24 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='submitAccount']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 8f55184e435c9eb0150bef062e0178ea
+*** Element info: {Using=xpath, value=.//*[@id='submitAccount']}
+2017-12-09 23:35:24 INFO  HomePage:216 - Click in final registration button :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='submitAccount']'
+2017-12-09 23:35:26 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[2]/a 
+2017-12-09 23:35:26 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[2]/a
+2017-12-09 23:35:26 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[2]/a]
+2017-12-09 23:35:27 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8f55184e435c9eb0150bef062e0178ea)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[2]/a] 
+2017-12-09 23:35:31 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:35:34 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:35:39 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:35:39 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:35:39 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (81ff28ea36c84ab26e449438618dc2be)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:35:40 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (81ff28ea36c84ab26e449438618dc2be)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:35:45 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:35:45 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:35:45 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (81ff28ea36c84ab26e449438618dc2be)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:35:45 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (81ff28ea36c84ab26e449438618dc2be)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:35:45 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd123'] 
+2017-12-09 23:35:45 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='passwd123']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 81ff28ea36c84ab26e449438618dc2be
+*** Element info: {Using=xpath, value=.//*[@id='passwd123']}
+2017-12-09 23:35:46 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:35:48 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:35:55 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:35:55 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:35:55 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (0698376b6d4a6bf2f23e60f88d27bc87)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:35:56 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (0698376b6d4a6bf2f23e60f88d27bc87)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:36:01 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:36:01 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:36:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (0698376b6d4a6bf2f23e60f88d27bc87)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:36:01 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (0698376b6d4a6bf2f23e60f88d27bc87)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:36:01 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd123'] 
+2017-12-09 23:36:01 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='passwd123']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 0698376b6d4a6bf2f23e60f88d27bc87
+*** Element info: {Using=xpath, value=.//*[@id='passwd123']}
+2017-12-09 23:36:02 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:36:04 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:36:09 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:36:09 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:36:09 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (3a2cdb6fb82370077ddee5daf644953a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:36:10 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (3a2cdb6fb82370077ddee5daf644953a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:36:15 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:36:15 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:36:15 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3a2cdb6fb82370077ddee5daf644953a)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:36:15 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3a2cdb6fb82370077ddee5daf644953a)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:36:15 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd123'] 
+2017-12-09 23:36:15 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='passwd123']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 3a2cdb6fb82370077ddee5daf644953a
+*** Element info: {Using=xpath, value=.//*[@id='passwd123']}
+2017-12-09 23:36:16 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:36:19 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:36:24 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:36:27 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:36:34 INFO  TestBase:55 - Creating the object of chrome
+2017-12-09 23:36:37 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-09 23:38:59 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-09 23:38:59 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:38:59 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:38:59 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:39:00 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:39:00 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:39:00 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:39:00 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (176fc5ea6a228a8ce2c41fa30d43d76f)] -> xpath: .//*[@id='email']]
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd123'] 
+2017-12-09 23:39:00 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='passwd123']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 176fc5ea6a228a8ce2c41fa30d43d76f
+*** Element info: {Using=xpath, value=.//*[@id='passwd123']}
+2017-12-09 23:40:22 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-09 23:40:22 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:40:22 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:40:22 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:40:23 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:40:23 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:40:23 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:40:23 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:40:23 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:40:23 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:40:23 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:40:24 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:40:24 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='email']]
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd'] 
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='passwd']
+2017-12-09 23:40:24 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='passwd']] before changed
+2017-12-09 23:40:24 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='passwd']] after changed
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd'] 
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='passwd']
+2017-12-09 23:40:24 INFO  HomePage:153 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='passwd']]
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitLogin'] 
+2017-12-09 23:40:24 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='SubmitLogin']
+2017-12-09 23:40:24 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-09 23:40:25 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (3f3b89de432d45285db812a8eb0d81bf)] -> xpath: .//*[@id='SubmitLogin']] 
+2017-12-09 23:40:25 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitLogin'] 
+2017-12-09 23:40:25 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='SubmitLogin']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 3f3b89de432d45285db812a8eb0d81bf
+*** Element info: {Using=xpath, value=.//*[@id='SubmitLogin']}
+2017-12-09 23:40:25 INFO  HomePage:155 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-09 23:40:25 INFO  TC001_LoginVerify:35 - ==========Finished verifying credential test============
+2017-12-09 23:44:24 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-09 23:44:24 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:44:24 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:44:24 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a
+2017-12-09 23:44:26 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:44:26 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='email']] before changed
+2017-12-09 23:44:26 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='email']] after changed
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='email'] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='email']
+2017-12-09 23:44:26 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='email']]
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd'] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='passwd']
+2017-12-09 23:44:26 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='passwd']] before changed
+2017-12-09 23:44:26 INFO  WebEventListener:124 - value of the [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='passwd']] after changed
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='passwd'] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='passwd']
+2017-12-09 23:44:26 INFO  HomePage:153 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='passwd']]
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitLogin'] 
+2017-12-09 23:44:26 INFO  WebEventListener:124 - Found element by By.xpath: .//*[@id='SubmitLogin']
+2017-12-09 23:44:26 INFO  WebEventListener:124 - clicked on[[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='SubmitLogin']]
+2017-12-09 23:44:27 INFO  WebEventListener:124 - Clicked on [[ChromeDriver: chrome on XP (8a6184f6d0ca2e3146aff613618943bc)] -> xpath: .//*[@id='SubmitLogin']] 
+2017-12-09 23:44:27 INFO  WebEventListener:124 - Trying to get element By.xpath: .//*[@id='SubmitLogin'] 
+2017-12-09 23:44:27 INFO  WebEventListener:124 - Exception Occurorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='SubmitLogin']"}
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.8.1', revision: '6e95a6684b', time: '2017-12-01T18:33:54.468Z'
+System info: host: 'DESKTOP-515C8VV', ip: '192.168.182.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptSslCerts: true, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.33.506120 (e3e53437346286..., userDataDir: C:\Users\Sharif\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 63.0.3239.84, webStorageEnabled: true}
+Session ID: 8a6184f6d0ca2e3146aff613618943bc
+*** Element info: {Using=xpath, value=.//*[@id='SubmitLogin']}
+2017-12-09 23:44:27 INFO  HomePage:155 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-09 23:44:27 INFO  TC001_LoginVerify:35 - ==========Finished verifying credential test============
+2017-12-09 23:53:31 INFO  TC001_LoginVerify:28 - =======Etarting verifying credentials test=========
+2017-12-09 23:53:32 INFO  HomePage:149 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (e8da2dfb1de42034d0ffd4ac47615ece)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-09 23:53:32 INFO  HomePage:151 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (e8da2dfb1de42034d0ffd4ac47615ece)] -> xpath: .//*[@id='email']]
+2017-12-09 23:53:32 INFO  HomePage:153 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (e8da2dfb1de42034d0ffd4ac47615ece)] -> xpath: .//*[@id='passwd']]
+2017-12-09 23:53:33 INFO  HomePage:155 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-09 23:53:33 INFO  TC001_LoginVerify:35 - ==========Finished verifying credential test============
+2017-12-10 00:01:56 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:01:58 INFO  TestBase:123 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (528f1af464b34c79b4483a19d19a2179)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:01:58 INFO  TestBase:123 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (528f1af464b34c79b4483a19d19a2179)] -> xpath: .//*[@id='email']]
+2017-12-10 00:01:58 INFO  TestBase:123 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (528f1af464b34c79b4483a19d19a2179)] -> xpath: .//*[@id='passwd']]
+2017-12-10 00:01:59 INFO  TestBase:123 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-10 00:01:59 INFO  TestBase:123 - ==========Finished verifying credential test============
+2017-12-10 00:22:48 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:22:49 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (ab744e2361da7c0ae5d223d96ded6388)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:22:49 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (ab744e2361da7c0ae5d223d96ded6388)] -> xpath: .//*[@id='email']]
+2017-12-10 00:22:49 INFO  Retry:36 - Retrying test loginToCredential with status FAILURE for the 1 time(s).
+2017-12-10 00:22:49 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:22:52 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:22:56 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:22:58 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (a4cf03763b6823ab4a59a74b95a0b403)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:22:58 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (a4cf03763b6823ab4a59a74b95a0b403)] -> xpath: .//*[@id='email']]
+2017-12-10 00:22:58 INFO  Retry:36 - Retrying test loginToCredential with status FAILURE for the 2 time(s).
+2017-12-10 00:22:58 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:23:01 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:23:06 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:23:07 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (e1fc37bb37dc2d830b6e3e9b9ee5afa0)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:23:07 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (e1fc37bb37dc2d830b6e3e9b9ee5afa0)] -> xpath: .//*[@id='email']]
+2017-12-10 00:51:42 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:51:43 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (65d04891d197f217ff48fa5b07218ea9)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:51:44 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (65d04891d197f217ff48fa5b07218ea9)] -> xpath: .//*[@id='email']]
+2017-12-10 00:51:44 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (65d04891d197f217ff48fa5b07218ea9)] -> xpath: .//*[@id='passwd']]
+2017-12-10 00:51:45 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-10 00:51:45 INFO  TestBase:123 - ==========Finished verifying credential test============
+2017-12-10 00:51:48 INFO  HomePage:168 - Click in sign button :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:51:49 INFO  HomePage:170 - Select email id and object is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: .//*[@id='email_create']]
+2017-12-10 00:51:54 INFO  HomePage:173 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-10 00:51:54 INFO  HomePage:186 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: .//*[@id='id_gender1']]
+2017-12-10 00:51:54 INFO  HomePage:188 - Select first name is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='customer_firstname']]
+2017-12-10 00:51:54 INFO  HomePage:190 - Select last name is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='customer_lastname']]
+2017-12-10 00:51:54 INFO  HomePage:192 - Select  password is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='passwd']]
+2017-12-10 00:51:55 INFO  HomePage:194 - Selected  day is :-10
+2017-12-10 00:51:55 INFO  HomePage:196 - Select  month is :-January
+2017-12-10 00:51:59 INFO  HomePage:198 - Select  year is :-2017
+2017-12-10 00:51:59 INFO  HomePage:200 - Select first name for address is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='firstname']]
+2017-12-10 00:51:59 INFO  HomePage:202 - Select last name for address is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:51:59 INFO  HomePage:204 - Select address in sign button :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='address1']]
+2017-12-10 00:51:59 INFO  HomePage:206 - Select city name is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='city']]
+2017-12-10 00:52:01 INFO  HomePage:208 - Select state name is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='id_state']]
+2017-12-10 00:52:01 INFO  HomePage:210 - Select zip code is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='postcode']]
+2017-12-10 00:52:02 INFO  HomePage:212 - Select country name is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='id_country']]
+2017-12-10 00:52:02 INFO  HomePage:214 - Select mobile number is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='phone_mobile']]
+2017-12-10 00:52:02 INFO  HomePage:216 - select reference is :-[[ChromeDriver: chrome on XP (75d5eb3faac58487335a925dcf344cb3)] -> xpath: //*[@id='alias']]
+2017-12-10 00:52:19 INFO  HomePage:218 - Click in final registration button :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='submitAccount']'
+2017-12-10 00:52:25 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:52:28 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:52:33 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-10 00:52:53 INFO  Retry:36 - Retrying test verifyingProducts with status FAILURE for the 1 time(s).
+2017-12-10 00:52:53 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:52:55 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:53:00 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-10 00:53:20 INFO  Retry:36 - Retrying test verifyingProducts with status FAILURE for the 2 time(s).
+2017-12-10 00:53:20 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:53:23 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:53:27 INFO  TC_001_VerifyingProducts:32 - =======Starting verifying Products===============
+2017-12-10 00:53:47 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:53:50 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:53:56 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (c211fc3839955c70918827a7ce90d79d)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-10 00:54:03 INFO  SwitchParentWindowToChildWindow:40 - Finished verifying facebook link
+2017-12-10 00:54:32 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:54:33 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (254ea713ec82f37437a41bdb61c5a8fa)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:54:33 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (254ea713ec82f37437a41bdb61c5a8fa)] -> xpath: .//*[@id='email']]
+2017-12-10 00:54:33 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (254ea713ec82f37437a41bdb61c5a8fa)] -> xpath: .//*[@id='passwd']]
+2017-12-10 00:54:34 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-10 00:54:34 INFO  TestBase:123 - ==========Finished verifying credential test============
+2017-12-10 00:54:36 INFO  HomePage:168 - Click in sign button :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:54:36 INFO  HomePage:170 - Select email id and object is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: .//*[@id='email_create']]
+2017-12-10 00:54:41 INFO  HomePage:173 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-10 00:54:41 INFO  HomePage:186 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: .//*[@id='id_gender1']]
+2017-12-10 00:54:41 INFO  HomePage:188 - Select first name is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='customer_firstname']]
+2017-12-10 00:54:41 INFO  HomePage:190 - Select last name is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='customer_lastname']]
+2017-12-10 00:54:41 INFO  HomePage:192 - Select  password is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='passwd']]
+2017-12-10 00:54:42 INFO  HomePage:194 - Selected  day is :-10
+2017-12-10 00:54:42 INFO  HomePage:196 - Select  month is :-January
+2017-12-10 00:54:45 INFO  HomePage:198 - Select  year is :-2017
+2017-12-10 00:54:45 INFO  HomePage:200 - Select first name for address is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='firstname']]
+2017-12-10 00:54:45 INFO  HomePage:202 - Select last name for address is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:54:45 INFO  HomePage:204 - Select address in sign button :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='address1']]
+2017-12-10 00:54:46 INFO  HomePage:206 - Select city name is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='city']]
+2017-12-10 00:54:47 INFO  HomePage:208 - Select state name is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='id_state']]
+2017-12-10 00:54:47 INFO  HomePage:210 - Select zip code is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='postcode']]
+2017-12-10 00:54:47 INFO  HomePage:212 - Select country name is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='id_country']]
+2017-12-10 00:54:47 INFO  HomePage:214 - Select mobile number is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='phone_mobile']]
+2017-12-10 00:54:47 INFO  HomePage:216 - select reference is :-[[ChromeDriver: chrome on XP (b1d4122e1e2c3a65a63385b0642dbb7a)] -> xpath: //*[@id='alias']]
+2017-12-10 00:55:04 INFO  HomePage:218 - Click in final registration button :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='submitAccount']'
+2017-12-10 00:55:10 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:55:13 INFO  TestBase:80 - Navigating to http://automationpractice.com/index.php
+2017-12-10 00:55:44 INFO  TestBase:123 - =======Etarting verifying credentials test=========
+2017-12-10 00:55:45 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (63d3ce5a83a2b737fc8f8c24994cdd0b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:55:45 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (63d3ce5a83a2b737fc8f8c24994cdd0b)] -> xpath: .//*[@id='email']]
+2017-12-10 00:55:45 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (63d3ce5a83a2b737fc8f8c24994cdd0b)] -> xpath: .//*[@id='passwd']]
+2017-12-10 00:55:46 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-10 00:55:46 INFO  TestBase:123 - ==========Finished verifying credential test============
+2017-12-10 00:55:50 INFO  HomePage:168 - Click in sign button :-[[ChromeDriver: chrome on XP (c8579b3581d9131381879e72e0a81994)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 00:55:50 INFO  HomePage:170 - Select email id and object is :-[[ChromeDriver: chrome on XP (c8579b3581d9131381879e72e0a81994)] -> xpath: .//*[@id='email_create']]
+2017-12-10 00:55:53 INFO  TestBase:55 - Creating the object of chrome
+2017-12-10 00:55:55 INFO  HomePage:173 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-10 00:55:55 INFO  HomePage:186 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (c8579b3581d9131381879e72e0a81994)] -> xpath: .//*[@id='id_gender1']]
+2017-12-10 23:02:20 INFO  TestBase:135 - =======Etarting verifying credentials test=========
+2017-12-10 23:02:24 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (82c697f8fd61656046a79a1f8809d4be)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-10 23:02:24 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (82c697f8fd61656046a79a1f8809d4be)] -> xpath: .//*[@id='email']]
+2017-12-10 23:02:24 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (82c697f8fd61656046a79a1f8809d4be)] -> xpath: .//*[@id='passwd']]
+2017-12-10 23:02:25 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-10 23:02:25 INFO  TestBase:135 - ==========Finished verifying credential test============
+2017-12-12 23:25:40 INFO  TestBase:162 - =======Etarting verifying credentials test=========
+2017-12-12 23:25:42 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (1f12ce975d51078cdd7f6d60ee332e5e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-12 23:25:42 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (1f12ce975d51078cdd7f6d60ee332e5e)] -> xpath: .//*[@id='email']]
+2017-12-12 23:25:42 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (1f12ce975d51078cdd7f6d60ee332e5e)] -> xpath: .//*[@id='passwd']]
+2017-12-12 23:25:43 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-12 23:25:43 INFO  TestBase:162 - ==========Finished verifying credential test============
+2017-12-12 23:25:44 INFO  TestBase:196 - browser closed
+2017-12-12 23:30:03 INFO  TestBase:162 - =======Etarting verifying credentials test=========
+2017-12-12 23:30:03 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (a1f8c2ca2ad2243106f826c9211e1e2c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-12 23:30:04 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (a1f8c2ca2ad2243106f826c9211e1e2c)] -> xpath: .//*[@id='email']]
+2017-12-12 23:30:04 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (a1f8c2ca2ad2243106f826c9211e1e2c)] -> xpath: .//*[@id='passwd']]
+2017-12-12 23:30:05 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-12 23:30:05 INFO  TestBase:162 - ==========Finished verifying credential test============
+2017-12-12 23:30:06 INFO  TestBase:196 - browser closed
+2017-12-12 23:30:10 INFO  HomePage:168 - Click in sign button :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-12 23:30:10 INFO  HomePage:170 - Select email id and object is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: .//*[@id='email_create']]
+2017-12-12 23:30:15 INFO  HomePage:173 - Click in registration button and object is :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitCreate']/span'
+2017-12-12 23:30:16 INFO  HomePage:186 - Click in mr RadioButton button :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: .//*[@id='id_gender1']]
+2017-12-12 23:30:16 INFO  HomePage:188 - Select first name is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='customer_firstname']]
+2017-12-12 23:30:16 INFO  HomePage:190 - Select last name is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='customer_lastname']]
+2017-12-12 23:30:16 INFO  HomePage:192 - Select  password is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='passwd']]
+2017-12-12 23:30:16 INFO  HomePage:194 - Selected  day is :-10
+2017-12-12 23:30:17 INFO  HomePage:196 - Select  month is :-January
+2017-12-12 23:30:19 INFO  HomePage:198 - Select  year is :-2017
+2017-12-12 23:30:19 INFO  HomePage:200 - Select first name for address is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='firstname']]
+2017-12-12 23:30:19 INFO  HomePage:202 - Select last name for address is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-12 23:30:19 INFO  HomePage:204 - Select address in sign button :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='address1']]
+2017-12-12 23:30:19 INFO  HomePage:206 - Select city name is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='city']]
+2017-12-12 23:30:20 INFO  HomePage:208 - Select state name is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='id_state']]
+2017-12-12 23:30:20 INFO  HomePage:210 - Select zip code is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='postcode']]
+2017-12-12 23:30:20 INFO  HomePage:212 - Select country name is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='id_country']]
+2017-12-12 23:30:20 INFO  HomePage:214 - Select mobile number is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='phone_mobile']]
+2017-12-12 23:30:20 INFO  HomePage:216 - select reference is :-[[ChromeDriver: chrome on XP (9910abe6db926d76b6a3087fd0c445dd)] -> xpath: //*[@id='alias']]
+2017-12-12 23:30:25 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 1 time(s).
+2017-12-12 23:30:25 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 2 time(s).
+2017-12-12 23:30:27 INFO  TestBase:196 - browser closed
+2017-12-12 23:30:36 INFO  HomePage:218 - Click in final registration button :-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='submitAccount']'
+2017-12-12 23:30:42 INFO  TestBase:196 - browser closed
+2017-12-12 23:30:42 INFO  TestBase:73 - Creating the object of chrome
+2017-12-12 23:30:44 INFO  TestBase:98 - Navigating to http://automationpractice.com/
+2017-12-12 23:30:48 INFO  TC_001_VerifyingProducts:33 - =======Starting verifying Products===============
+2017-12-12 23:31:08 INFO  Retry:36 - Retrying test verifyingProducts with status FAILURE for the 1 time(s).
+2017-12-12 23:31:08 INFO  TC_001_VerifyingProducts:33 - =======Starting verifying Products===============
+2017-12-12 23:31:28 INFO  Retry:36 - Retrying test verifyingProducts with status FAILURE for the 2 time(s).
+2017-12-12 23:31:28 INFO  TC_001_VerifyingProducts:33 - =======Starting verifying Products===============
+2017-12-12 23:31:50 INFO  TestBase:196 - browser closed
+2017-12-12 23:31:50 INFO  TestBase:73 - Creating the object of chrome
+2017-12-12 23:31:52 INFO  TestBase:98 - Navigating to http://automationpractice.com/
+2017-12-12 23:31:57 INFO  SwitchParentWindowToChildWindow:29 - clicked on facebook link and object is :[[ChromeDriver: chrome on XP (931f1f617dc782e71d2877f45d711620)] -> xpath: .//*[@id='social_block']/ul/li[1]/a]
+2017-12-12 23:32:03 INFO  SwitchParentWindowToChildWindow:41 - Finished verifying facebook link
+2017-12-12 23:32:04 INFO  TestBase:196 - browser closed
+2017-12-12 23:58:54 INFO  TestBase:167 - =======Etarting verifying credentials test=========
+2017-12-12 23:58:55 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (5be9022b1a1d183acb08be8d57c50a7f)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-12 23:58:55 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (5be9022b1a1d183acb08be8d57c50a7f)] -> xpath: .//*[@id='email']]
+2017-12-12 23:58:55 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (5be9022b1a1d183acb08be8d57c50a7f)] -> xpath: .//*[@id='passwd']]
+2017-12-12 23:58:56 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-12 23:58:56 INFO  TestBase:167 - ==========Finished verifying credential test============
+2017-12-12 23:58:56 INFO  TestBase:201 - browser closed
+2017-12-12 23:59:19 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 1 time(s).
+2017-12-12 23:59:19 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 2 time(s).
+2017-12-12 23:59:22 INFO  TestBase:201 - browser closed
+2017-12-13 00:00:17 INFO  TestBase:167 - =======Etarting verifying credentials test=========
+2017-12-13 00:00:18 INFO  HomePage:235 - Clicked on sign in and object is :-[[ChromeDriver: chrome on XP (2255b2b201d85f86266f7e618c922644)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-12-13 00:00:18 INFO  HomePage:235 - Entered email address:-admin123456@gmail.com and object is :-[[ChromeDriver: chrome on XP (2255b2b201d85f86266f7e618c922644)] -> xpath: .//*[@id='email']]
+2017-12-13 00:00:18 INFO  HomePage:235 - Entered password:-admin123 and object is:-[[ChromeDriver: chrome on XP (2255b2b201d85f86266f7e618c922644)] -> xpath: .//*[@id='passwd']]
+2017-12-13 00:00:20 INFO  HomePage:235 - Elicked on submit button and object is:-Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='SubmitLogin']'
+2017-12-13 00:00:20 INFO  TestBase:167 - ==========Finished verifying credential test============
+2017-12-13 00:00:21 INFO  TestBase:201 - browser closed
+2017-12-13 00:00:46 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 1 time(s).
+2017-12-13 00:00:46 INFO  Retry:36 - Retrying test loginFromDifferentRecord with status FAILURE for the 2 time(s).
+2017-12-13 00:00:48 INFO  TestBase:201 - browser closed

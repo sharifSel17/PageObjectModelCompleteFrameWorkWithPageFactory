@@ -2,6 +2,7 @@ package homePageTest;
 
 import commonApi.TestBase;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import pageLibrary.HomePage;
@@ -35,7 +36,7 @@ public class TC002_NewUserRegistrationToApplication extends TestBase {
 
 
 
-    @BeforeMethod
+    @BeforeClass
     public void setUp()throws IOException{
         init();
     }
@@ -53,9 +54,6 @@ public class TC002_NewUserRegistrationToApplication extends TestBase {
         Thread.sleep(2000);
         log.info("=============End Test===============");
     }
-    @AfterClass
-    public void endTest(){
-        driver.quit();
-    }
+
 
 }

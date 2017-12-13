@@ -2,10 +2,7 @@ package homePageTest;
 
 import commonApi.TestBase;
 import org.apache.log4j.Logger;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 import pageLibrary.HomePage;
 
 import java.io.IOException;
@@ -19,7 +16,7 @@ public class TC003_VerifyingLoginDataFromExcelReader extends TestBase {
     HomePage homePage;
 
 
-    @BeforeMethod
+    @BeforeClass
     public void setUp()throws IOException{
         init();
         //homePage = new HomePage(driver);
@@ -55,10 +52,5 @@ public class TC003_VerifyingLoginDataFromExcelReader extends TestBase {
             e.printStackTrace();
         }
        log.info("========Finished verifying to logout is displayed========");*/
-    }
-
-    @AfterMethod
-    public void endTest(){
-        driver.quit();
     }
 }
